@@ -1,2 +1,2 @@
 # hello-world
-A repo created at a workshop
+A repo created at MLH workshop
